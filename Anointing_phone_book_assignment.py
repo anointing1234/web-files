@@ -1,5 +1,4 @@
-# project 
-# Name: Anointing Adebayo
+
 
 # phone boot
 # 1. save contacts (name,number)
